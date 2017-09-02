@@ -16,7 +16,7 @@ namespace sample2
                 PrintLine(y);//함수설명쓰기
 
             }
-            for (int y = count; y <= 0; y--)
+            for (int y = count; y >= 0; y--)
             {
                 PrintLine(z);//함수설명쓰기
 
